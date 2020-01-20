@@ -1,10 +1,10 @@
 # Duolingo_User_Activity_Exploration_Data_Analysis
 
-** This is a project to perform EDA and predictive modeling of Duilingo user activities.
-* The data used here can be download from the website: https://github.com/duolingo/halflife-regression. 
-* The training data has 13 million data, but we only take 1 million here.
-* The input is a list of users along with their demographics, user activity, web session records, and some summary statistics.
-* Performed data anaylsis to discover user patterns in data by visualizing data and by computing the correlation between features. **
+** This is a project to perform EDA and predictive modeling of Duilingo user activities.**
+**1. The data used here can be download from the website: https://github.com/duolingo/halflife-regression. 
+2. The training data has 13 million data, but we only take 1 million here.
+3. The input is a list of users along with their demographics, user activity, web session records, and some summary statistics.
+4. Performed data anaylsis to discover user patterns in data by visualizing data and by computing the correlation between features.**
 
 ## Background
 The dataset in this project comes from Duolingo, which is the world's most popular platform to learn a language. They offer free online language courses to different ages of people, with different level of courses. Users can choose a variaty of language course, such as English, Spanish, French, Italy, Portuguese and so on. Their vision is to analyze how millions of people learn online courses so as to create the most effective educational system possible and tailor it to each student. Their ultimate goal is to give everyone access to a private tutor experience through technology.
