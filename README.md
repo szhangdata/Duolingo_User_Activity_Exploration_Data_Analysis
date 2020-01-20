@@ -17,7 +17,7 @@ In this Duolingo user activity dataset, we will use some classical ways to explo
 * Discover patterns in data by visualizing data with python data visualization packages sucha as Matplotlib, and Seaborn, or by using functions to compute the correlation between features.
 
 ## Data Description
-In this project, we are given a list of users along with their demographics, user activity web session records, and some summary statistics. We are asked to do exploration data analysis to develop intuation about the dataset. The target p_recall is the excercise score after taking courses. The outcome will give us correlation between different featurs and p_recall.
+In this project, we are given a list of users along with their demographics, user activity web session records, and some summary statistics. We will perform exploration data analysis to develop intuation about the dataset. The target p_recall is the excercise score after taking courses. The outcome will give us correlation between different featurs and p_recall.
 
 ## File descriptions
 The columns are as follows:
