@@ -1,6 +1,7 @@
 # Duolingo_User_Activity_Exploration_Data_Analysis
 
 This is a project to perform EDA and predictive modeling of Duilingo user activities.
+
 1. The data used here can be download from the website: https://github.com/duolingo/halflife-regression. 
 
 2.The training data has 13 million data, but we only take 1 million here.
