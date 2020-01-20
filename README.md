@@ -6,7 +6,7 @@ This is a mini project to perform EDA and predictive modeling of Duilingo user a
 3.The input is a list of users along with their demographics, user activity, web session records, and some summary statistics.
 4.Performed data anaylsis to discover user patterns in data by visualizing data and by computing the correlation between features.
 
-Background
+## Background
 The dataset in this mini project comes from Duolingo, which is the world's most popular platform to learn a language. They offer free online language courses to different ages of people, with different level of courses. Users can choose a variaty of language course, such as English, Spanish, French, Italy, Portuguese and so on. Their vision is to analyze how millions of people learn online courses so as to create the most effective educational system possible and tailor it to each student. Their ultimate goal is to give everyone access to a private tutor experience through technology.
 
 In this Duolingo user activity dataset, we will use some classical ways to explore data efficiently with different packages so that we can develop intuition about data set:
