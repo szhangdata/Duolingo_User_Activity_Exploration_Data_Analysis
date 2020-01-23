@@ -10,7 +10,7 @@
 
 **4. Performed data anaylsis to discover user patterns in data by visualizing data and by computing the correlation between features.**
 
-**5. The output is the p_recall which is the excise score after user taking online course. **
+**5. The output is the p_recall which is the excise score after user taking online course.**
 
 ## Background
 The dataset in this project comes from Duolingo, which is the world's most popular platform to learn a language. They offer free online language courses to different ages of people, with different level of courses. Users can choose a variaty of language course, such as English, Spanish, French, Italy, Portuguese and so on. Their vision is to analyze how millions of people learn online courses so as to create the most effective educational system possible and tailor it to each student. Their ultimate goal is to give everyone access to a private tutor experience through technology.
