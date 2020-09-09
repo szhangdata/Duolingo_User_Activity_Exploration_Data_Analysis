@@ -8,7 +8,7 @@
 
 **3. The input is a list of users along with their demographics, user activity, web session records, and some summary statistics.**
 
-**4. Performed data anaylsis to discover user patterns in data by visualizing data and by computing the correlation between features.**
+**4. Performed data anaylsis to discover user patterns by data visualization and by computing the correlation between features.**
 
 **5. The output is the p_recall which is the excise score after user taking online course.**
 
