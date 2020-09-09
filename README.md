@@ -1,4 +1,4 @@
-# Duolingo_User_Activity_Exploration_Data_Analysis
+# Duolingo_User_Activity_Exploratory_Data_Analysis
 
 **In this project we will perform EDA and predictive modeling of Duilingo user activities.**
 
